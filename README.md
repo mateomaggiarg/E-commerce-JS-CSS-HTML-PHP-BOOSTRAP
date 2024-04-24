@@ -1,0 +1,1 @@
+Proyecto pagina e-commerce con HTML-CSS-JS-PHP, para poder ver este proyecto efectivamente debemos usar XAMPP y importar el archivo base de datos, esta pagina tiene una tienda con carrito para comprar, categorias de productos y un apartado de LOGIN REGISTER para ingresar a la misma.
